@@ -1,0 +1,40 @@
+head {
+	font-family: 'Montserrat', serif !important;
+}
+
+body { 
+	background: #fefefe !important;
+	font-family: 'Merriweather', serif;
+	font-family: 'Montserrat', sans-serif !important;
+} 
+
+#modaldarkblue {
+	background-color:#24305E;
+	color: #F8E9A1;
+}
+
+.close {
+    color: #fff; 
+    opacity: 1;
+}
+
+.close:hover {
+	color: #e8c56d;
+}
+
+#bgblue {
+	background: #75929d;
+}
+
+a {
+	color: #A8D0E6 !important;
+
+
+a:hover {
+	color: #F8E9A1 !important;
+}
+
+.margin-fix {
+	margin-top: -100 px !important;
+	margin-bottom: 100 px !important;
+}
